@@ -1,0 +1,5 @@
+﻿  ThreeBearsGame_Skeleton.cpp
+c:\users\ryanm\onedrive\documents\visual studio 2015\projects\threebears\threebearsgame_skeleton.cpp(747): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  FoP_ThreeBearsGame_Project.vcxproj -> C:\Users\ryanm\OneDrive\Documents\Visual Studio 2015\Projects\ThreeBears\Debug\FoP_ThreeBearsGame_Project.exe
+  FoP_ThreeBearsGame_Project.vcxproj -> C:\Users\ryanm\OneDrive\Documents\Visual Studio 2015\Projects\ThreeBears\Debug\FoP_ThreeBearsGame_Project.pdb (Full PDB)
